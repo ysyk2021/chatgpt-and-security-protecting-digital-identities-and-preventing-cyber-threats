@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ChatGPT and Security: Protecting Digital Identities and Preventing Cyber Threats"
