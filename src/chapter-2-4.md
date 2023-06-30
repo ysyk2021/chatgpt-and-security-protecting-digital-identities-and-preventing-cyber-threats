@@ -3,16 +3,6 @@ Limitations and Challenges of Digital Security
 
 Digital security is a critical aspect of protecting digital identities and preventing cyber threats. In this chapter, we will discuss the limitations and challenges of digital security.
 
-What is Digital Security?
--------------------------
-
-Digital security refers to the protection of digital assets, including data, networks, and devices, from unauthorized access, use, or theft. It involves implementing security measures such as firewalls, encryption, and multi-factor authentication to prevent cyber attacks.
-
-What are Cyber Threats?
------------------------
-
-Cyber threats refer to any malicious activity aimed at disrupting, damaging, or stealing digital assets. Examples of cyber threats include malware, phishing, hacking, and ransomware attacks.
-
 The Limitations of Digital Security
 -----------------------------------
 
