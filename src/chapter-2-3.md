@@ -1,5 +1,4 @@
-Types of Cyber Threats Used Today
-==============================================================================================
+
 
 Digital security is critical for protecting digital identities and preventing cyber threats. In this chapter, we will discuss the different types of cyber threats used today.
 

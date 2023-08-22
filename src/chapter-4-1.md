@@ -1,5 +1,4 @@
-What is ChatGPT?
-====================================================
+
 
 ChatGPT is a natural language processing tool that uses deep learning techniques to generate human-like responses to natural language queries. It is based on the GPT (Generative Pre-trained Transformer) architecture and has been trained on a massive dataset of text from the internet. This allows it to understand and respond to a wide range of topics and conversations.
 

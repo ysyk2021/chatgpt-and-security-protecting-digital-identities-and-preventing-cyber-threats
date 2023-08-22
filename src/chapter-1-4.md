@@ -1,5 +1,4 @@
-Objectives of the Book
-====================================
+
 
 Digital security is critical in today's world, as more and more aspects of our lives are conducted online. The objective of this book is to provide readers with an understanding of digital security and the different types of cyber threats that exist, as well as the tools and techniques that can be used to protect against these threats.
 

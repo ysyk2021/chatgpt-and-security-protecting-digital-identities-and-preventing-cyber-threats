@@ -1,5 +1,4 @@
-The History and Evolution of Digital Security and Cyber Threats
-============================================================================================================================
+
 
 Digital security has become increasingly important in today's world. In this chapter, we will discuss the history and evolution of digital security and cyber threats.
 

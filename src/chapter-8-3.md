@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In conclusion, digital security is a critical aspect of protecting digital identities and preventing cyber threats. However, it faces several limitations and challenges, including human error, advanced persistent threats, insider threats, emerging technologies, rapidly evolving threat landscape, limited resources, lack of awareness and education, and regulatory compliance.
 

@@ -1,5 +1,4 @@
-What is Digital Security and Cyber Threats?
-========================================================================================================
+
 
 Digital security refers to the protection of digital identities, data, and assets from unauthorized access, use, disclosure, disruption, modification, or destruction. With the increasing dependence on technology in our daily lives, digital security has become critical for protecting sensitive information and preventing cyber threats.
 
