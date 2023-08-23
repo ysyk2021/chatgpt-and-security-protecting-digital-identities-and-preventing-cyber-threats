@@ -1,5 +1,4 @@
 
-
 Digital security is critical for protecting digital identities and preventing cyber threats. In this chapter, we will discuss the different types of cyber threats used today.
 
 Malware
@@ -41,5 +40,4 @@ Conclusion
 ----------
 
 In conclusion, digital security is critical for protecting digital identities and preventing cyber threats. The different types of cyber threats used today include malware, phishing, hacking, DDoS attacks, insider threats, APTs, and social engineering. It is important for individuals and organizations to be aware of these threats and take appropriate measures to protect themselves against them.
-
 

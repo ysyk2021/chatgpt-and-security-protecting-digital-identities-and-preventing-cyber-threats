@@ -1,5 +1,4 @@
 
-
 Digital security refers to the protection of digital identities, data, and assets from unauthorized access, use, disclosure, disruption, modification, or destruction. With the increasing dependence on technology in our daily lives, digital security has become critical for protecting sensitive information and preventing cyber threats.
 
 Cyber threats are any malicious activities that target digital identities, data, and assets, with the intent of causing harm or obtaining unauthorized access. Cyber threats can take many forms, including malware, phishing, hacking, DDoS attacks, insider threats, APTs, and social engineering.

@@ -1,5 +1,4 @@
 
-
 ChatGPT is a language model developed by OpenAI, capable of understanding and generating human-like responses to natural language queries. In this chapter, we will provide an introduction to ChatGPT and explore case studies on the use of ChatGPT in digital security.
 
 ChatGPT can be used in a variety of ways in digital security, including:

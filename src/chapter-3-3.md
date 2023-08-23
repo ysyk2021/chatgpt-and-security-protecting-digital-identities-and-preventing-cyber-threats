@@ -1,5 +1,4 @@
 
-
 Chatbots and AI are increasingly being used in digital security to detect and prevent cyber threats. There are several types of chatbots that can be used for this purpose, each with its own strengths and weaknesses.
 
 Rule-Based Chatbots
