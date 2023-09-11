@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Digital Security
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the planning and design considerations for implementing ChatGPT in the context of digital security. Effective planning and careful design are crucial to ensure that ChatGPT is tailored to address specific cybersecurity challenges, protect digital identities, and prevent cyber threats.
 

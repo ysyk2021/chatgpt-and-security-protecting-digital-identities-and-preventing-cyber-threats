@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT in Digital Security
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies that highlight the application of ChatGPT in digital security. ChatGPT, an advanced language model powered by artificial intelligence, has the potential to assist in various aspects of digital security, including threat detection, incident response, and user education.
 

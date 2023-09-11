@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Digital Security
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the limitations and challenges associated with digital security in the context of ChatGPT. While ChatGPT offers significant advantages, it is important to be aware of potential limitations and address the challenges that arise in the field of protecting digital identities and preventing cyber threats.
 

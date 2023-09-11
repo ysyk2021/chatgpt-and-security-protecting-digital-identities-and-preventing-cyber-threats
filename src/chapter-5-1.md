@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Digital Security
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT works in the context of digital security. ChatGPT, powered by OpenAI's advanced language model, has the potential to be an invaluable tool in protecting digital identities and preventing cyber threats. Let's delve into the workings of ChatGPT and its applications in digital security.
 

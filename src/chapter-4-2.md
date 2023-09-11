@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features that make ChatGPT a powerful tool for protecting digital identities and preventing cyber threats. Understanding these features is essential for leveraging the capabilities of ChatGPT effectively in the field of digital security.
 

@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of training ChatGPT and managing conversations to ensure effective use in protecting digital identities and preventing cyber threats. Training ChatGPT involves preparing data, fine-tuning the model, and implementing strategies for handling conversations to optimize its performance and address potential challenges.
 

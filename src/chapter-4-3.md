@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Digital Security
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the advantages and benefits of using ChatGPT in the field of digital security. ChatGPT offers unique capabilities that can significantly enhance the protection of digital identities and the prevention of cyber threats.
 

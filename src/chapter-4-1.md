@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore what ChatGPT is and how it can be utilized to protect digital identities and prevent cyber threats. ChatGPT is an advanced language model that uses artificial intelligence (AI) techniques to engage in natural language conversations with users. Developed by OpenAI, ChatGPT has been designed to understand and generate human-like text responses, making it a valuable tool for various applications, including cybersecurity.
 

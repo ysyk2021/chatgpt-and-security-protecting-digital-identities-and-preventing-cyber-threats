@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Digital Security
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the personalization techniques used in ChatGPT for digital security. Personalization plays a crucial role in tailoring the interactions between ChatGPT and users, allowing for more effective support, threat detection, and incident response. Let's delve into some of the key techniques employed to personalize ChatGPT in the context of digital security.
 

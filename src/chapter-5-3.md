@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Digital Security
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT utilizes data to improve digital security. ChatGPT, powered by artificial intelligence, leverages various sources of data to enhance threat detection, incident response, user education, and overall cybersecurity practices.
 
